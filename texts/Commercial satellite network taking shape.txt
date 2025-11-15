@@ -1,0 +1,43 @@
+标题: Commercial satellite network taking shape
+网址: https://www.chinadaily.com.cn/a/202403/14/WS65f24f52a31082fc043bc900.html
+
+Commercial satellite network taking shape
+
+Starpool aims to serve business needs across wide range of industry sectors
+
+Editor's Note:China's aerospace sector was a focus during the just-concluded two sessions, the annual gathering of the country's top legislature and top political advisory body, as the sector partly reflects the latest developments and direction in China's science and technology. China Daily interviewed industry experts to share their insights on several hot topics in the field.
+
+Ellipspace, a private satellite company in Beijing, is working to establish a vast satellite network in low-Earth orbit that will be able to serve a wide variety of businesses from oilfield and electricity grid monitoring to emergency response and disaster relief, according to the company's top executives.
+
+Called Starpool, the network will consist of more than 100 satellites and is scheduled to be completed by 2027, Di Fengping, president of Ellipspace and a senior spacecraft scientist, told China Daily in an exclusive interview in Beijing.
+
+"We will deploy eight satellites this year if everything goes according to plan. We have begun to build those satellites and have been cooperating with our rocket contractor and other contractors to push forward our schedule. But whether the plan can become reality depends largely on the rocket launch plan," she said.
+
+Once in orbit, those satellites will join the first two Starpool satellites, which were placed in space in December last year by a Long March 2C rocket from the Jiuquan Satellite Launch Center in northwestern China, to form a network capable of obtaining and delivering data products within four hours, according to Di.
+
+She said each Starpool satellite weighs about 300 kilograms and has a life span of seven years.
+
+The scientist expounded on several unique advantages Starpool satellites have.
+
+"The orbital position control system on our satellites was developed by our engineers. Moreover, our control system has a very high directional accuracy that is better than other products on the market," Di said.
+
+"In addition, the solar arrays on our satellites are capable of adjusting themselves to face the sun, and that promises around-the-clock power supply. As a result, our remote sensing cameras can work 24 hours a day, seven days a week, while many other satellites can't support their cameras to operate for such a long time."
+
+Remote sensing refers to the process of detecting and monitoring the physical characteristics of objects on land or at sea by measuring the targets' reflected and emitted radiation.
+
+Zhang Tao, Ellipspace's chairman and also a renowned spacecraft scientist, said the Starpool project is the result of a long time of observation, deliberation and analyses, explaining that it aims to meet the demand for satellite-enabled services such as rapid and accurate provision of data.
+
+"Upon its completion, the Starpool network will feature the integration of communications, remote-sensing and positioning and navigation functions. By then, it will be able to perform instant-responsive remote sensing operations within eight minutes. That means our system will likely become the first in the world capable of carrying out all of those operations in one.
+
+"Contrary to many people's concerns that multi-functionality means poor performance of each function, each functional segment on our satellites complements and enhances the others. For example, after obtaining images or data of a target on Earth, our satellites can use their positioning capability to accurately locate the target and then access detailed information about the target by communicating with ground sensors. This approach makes Starpool able to conduct tasks that otherwise would need multiple ground- and space-based networks to work together," he explained.
+
+Zhang said data obtained through the network can be of big help for oil and electricity infrastructure patrol work, the protection of animals and nature reserves, agricultural insurance, emergency response, disaster relief and marine infrastructure maintenance.
+
+"Currently, we have clients in the electric power industry who use our satellite data to check and analyze the condition of their infrastructure. Our services have helped their employees avoid some hazardous chores and improved efficiency," Di said, adding that Ellipspace aims to work with partners in other industries to promote the applications of the Starpool network.
+
+The company has established in-depth cooperation with more than 10 countries involved in the Belt and Road Initiative, covering scientific research, satellite research and development, and data applications, she added.
+
+Di and Zhang were previously senior planners in China's manned space program before setting up their own business in 2020. They were in charge of drafting plans for science and technology tasks to be undertaken by astronauts inside the Tiangong space station, one of the biggest and most sophisticated spacecraft ever put into orbit.
+
+图片列表:
+1. Commercial satellite network taking shape_14.jpeg - 尺寸: 1199x800

@@ -1,0 +1,18 @@
+标题: China tests micro propulsion technology for space-based gravitational wave detection
+网址: https://www.chinadaily.com.cn/a/202001/03/WS5e0f0355a310cf3e35582608.html
+
+China tests micro propulsion technology for space-based gravitational wave detection
+
+BEIJING - Chinese space engineers have tested a micro propulsion technology on a recently launched satellite, which could be used in future space-based gravitational wave detection.
+
+Experts from the China Academy of Space Technology under the China Aerospace Science and Technology Corporation said they tested the variable thrust propulsion at the micronewton level on the Tianqin-1 satellite, which was sent into space on Dec 20, 2019.
+
+The thrust of one micronewton is equivalent to the weight of a 1-cm-long hair. And the accuracy of the micro propulsion system of the Tianqin-1 satellite could reach 0.1 micronewtons, according to the experts.
+
+The weak thrust is generated to continuously offset the interference of solar pressure and the atmosphere affecting the satellite.
+
+Only by eliminating these forces can the satellite become a super static and super stable platform and make the space-based detection of gravitational waves possible, said experts.
+
+Tianqin-1 is the first technological experiment satellite for the Tianqin program, meaning "harp in the sky," which was initiated by Sun Yat-sen University in south China's Guangdong province in 2015. It will consist of three satellites forming an equilateral triangle around the earth.
+
+"It's like a harp in space. If the gravitational waves come, the 'harp's strings' will be plucked," said Luo Jun, president of Sun Yat-sen University and an academician of the Chinese Academy of Sciences.

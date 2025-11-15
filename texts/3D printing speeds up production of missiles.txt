@@ -1,0 +1,28 @@
+标题: 3D printing speeds up production of missiles
+网址: https://www.chinadaily.com.cn/a/202203/21/WS6237d698a310fd2b29e52261.html
+
+3D printing speeds up production of missiles
+
+China Aerospace Science and Industry Corp, the nation's largest missile maker, is taking advantage of additive manufacturing technology, commonly known as 3D printing, to accelerate the design and production of cruise missiles, engineers said.
+
+"It takes about one to two months for dozens of technicians and workers to manufacture a gas rudder (used on a cruise missile) with traditional machining methods because it involves a succession of processes like casting and welding," said Zhang Chunhu, a senior technician at CASIC's Third Academy. "And a rudder is only a small part on a missile, so you can imagine how much manpower and time it takes to build a whole cruise missile by traditional means.
+
+"But now, with 3D printing technology, a handful of workers can make a rudder within a week. The 3D-printing-enabled procedure can save us a great deal of labor, time and cost, and is much better than mechanical machining when it comes to weight and accuracy control for our products."
+
+Zhang said a mechanically made rudder has rough surfaces that require workers to use machines and a lot of time to smooth them, and during that process, a large proportion of metal is chopped off and wasted. By comparison, a 3D printed one has very smooth surfaces with a tiny amount of redundant material－usually just a few grams－which means it is almost ready for installation on a missile.
+
+"Thanks to 3D printing technology, our production efficiency and quality have substantially improved," Zhang said.
+
+Jiao Shikun, an engineer at the academy's Technological Innovation Center for Additive Manufacturing, said 3D printers have enabled workers to increase the raw material utilization rate by dozens of times when it comes to manufacturing large missile components. The "printed" products have higher structural strength and a better pass rate, he added.
+
+He said CASIC's Third Academy is the largest user of 3D printers in China's aerospace industry, and its technicians are using the technology to make many cruise missile parts such as engines and fuselage panels.
+
+Zhang and Jiao said they will cooperate with weapons designers at the academy to introduce 3D printing technology in the design of new missiles.
+
+"Designers can consider which components are suitable to be 'printed'. This technology can give engineers more space for imagination and innovation and allow them to design advanced, sophisticated components that would be difficult for traditional methods to manufacture but easy for 3D printers," Zhang said. "It is no exaggeration to say that 3D printing technology will revolutionize the design work of missiles."
+
+The technology also has huge potential in the academy's production of unmanned aircraft, he said.
+
+Wu Peixin, a defense industry observer in Beijing, said it is likely that in the future, 3D printers will be taken to the battlefield to allow soldiers to print and assemble missiles on the spot based on their needs.
+
+China's aviation and space industries have used 3D printers widely on their production lines. Chinese scientists also carried out space-based 3D printing experiments on the country's new-generation manned spacecraft during its first flight test in May 2020.

@@ -1,0 +1,28 @@
+标题: China harnesses AI to revolutionize smart breeding, crop development
+网址: https://www.chinadaily.com.cn/a/202503/25/WS67e23cf4a3101d4e4dc2ab47.html
+
+China harnesses AI to revolutionize smart breeding, crop development
+
+SANYA -- The fusion of artificial intelligence (AI) and agriculture is transforming the future of food. Smart breeding, powered by AI, is unlocking potential to develop high-yield, climate-resilient "super crops" which could redefine global food security in an era of environmental uncertainty.
+
+At the 2025 Seed Congress held from March 20 to 23 in the city of Sanya, South China's Hainan province, smart breeding took center stage.
+
+Over 40 exhibitors showcased cutting-edge technologies and flagship crop varieties, highlighting how AI-driven breeding is transitioning from theory to practice. Digital displays at the event illustrated the latest breakthroughs, from AI-powered genomic analysis to cloud-based farm monitoring systems.
+
+Experts at the event emphasized that smart breeding is converting traditional methods into precision agriculture -- offering solutions to overcome seed resource bottlenecks, enhance self-reliance in the seed industry, and secure China a strategic position in the global seed market.
+
+Li Jiayang, an academician at the Chinese Academy of Sciences (CAS), introduced the concept of "intelligent creation of intelligent varieties," underscoring the potential of integrating AI, biotechnology and information technology to develop crops that autonomously adapt to environmental challenges.
+
+Qian Qian, another CAS academician, highlighted the complexity of crop traits. "Understanding the relationship between genes and traits requires computational power and advanced algorithms," he said. Unlike traditional small-scale breeding, smart breeding adopts an industrialized approach, pooling vast resources to integrate superior traits efficiently.
+
+AI-driven breeding is already delivering results. For example, at China National Seed Group, researchers use a cloud-based system to remotely monitor fields, collecting real-time data on crop health and growth. This enables scientists to address issues promptly and optimize breeding processes.
+
+One notable breakthrough is in the field of hybrid rice development. Traditionally, breeders tested thousands of combinations to find a single superior hybrid. Now, AI-powered genomic analysis predicts high-yield combinations before field trials begin.
+
+"We have moved from experience-driven to data-driven breeding," said Li Huihui, deputy director of the National Nanfan Research Institute of the Chinese Academy of Agricultural Sciences.
+
+Another milestone is the launch of "Fengdeng," a seed-focused large language model mainly developed by the Yazhou Bay National Laboratory in Sanya. This AI platform provides expert insights on breeding, cultivation and industry trends -- empowering farmers and researchers with actionable knowledge.
+
+Despite such advancements, challenges remain. China's smart breeding sector still trails global seed giants in terms of data-sharing infrastructure and commercialization. Fragmented datasets limit AI's ability to predict and design superior crop varieties.
+
+"Accelerating the development of high-yield, high-quality and climate-resilient 'super varieties' is crucial," Qian said. He called for interdisciplinary collaboration among breeding institutions, AI researchers and agribusinesses, to drive innovations in smart breeding.

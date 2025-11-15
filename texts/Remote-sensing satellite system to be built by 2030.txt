@@ -1,0 +1,32 @@
+标题: Remote-sensing satellite system to be built by 2030
+网址: https://www.chinadaily.com.cn/a/202307/14/WS64b0967fa31035260b8165d2.html
+
+Remote-sensing satellite system to be built by 2030
+
+Network will be able to map, survey any place on Earth within 15 minutes
+
+China Aerospace Science and Industry Corp, one of the country's major space contractors, announced on Thursday in Wuhan, Hubei province, that it plans to construct a massive remote-sensing satellite network before 2030.
+
+The network, which has yet to be named, will be tasked with serving public services such as emergency response and rescue, and disaster prevention and relief, and will also be used to carry out real-time, high-resolution observation of designated areas and specific targets in accordance with users' requests, according to CASIC Space Engineering Development, a CASIC subsidiary in Beijing leading the project.
+
+Upon its scheduled completion around 2030, the space-based system will have 300 remote-sensing satellites operating in extra-low orbits, which have altitudes of less than 300 kilometers, and will be able to obtain optical pictures, radar data, and hyperspectral and infrared images.
+
+By that time, the network will be capable of mapping and surveying any given place in the world within 15 minutes after receiving users' requests, the company said in a news release on the sidelines of the 9th China International Commercial Aerospace Forum that opened on Wednesday in Wuhan.
+
+Remote-sensing satellites refer to satellites tasked with observing, surveying and measuring objects on Earth, as well as monitoring weather.
+
+"We plan to launch the first satellite in December. The satellite is now being built and will carry optical remote-sensing imagers, data processors, atomic oxygen sensors and other mission payloads," said Zhang Nan, chief designer of the satellite network at CASIC Space Engineering Development.
+
+If the first satellite works well, the company will launch nine more of the same type to the same orbit in 2024 to demonstrate networking technologies and establish a trial-run system, Zhang said.
+
+Satellites flying in extra-low orbit face technical challenges, including a complex dynamic environment and higher drag force, but the advantages that come with the low altitude will pay off, she said.
+
+"Because such satellites are closer to Earth, they can produce pictures with higher definition at lower cost, and can transmit them back to Earth in less time. They also weigh less, and their production costs are lower," the designer explained.
+
+Li Yanbin, deputy general manager of CASIC Space Engineering Development, said that current remote-sensing products in China are far from sufficient to meet the demands from emergency response and rescue and disaster relief operations, which require timely and low-cost data support.
+
+"Our satellite network is what they really need — it will provide rapid, reliable acquisition of high-precision data and images. Moreover, its operations will unleash the tremendous potential in businesses related to commercial remote-sensing services and may even break new ground in the space industry," he said.
+
+The manager said that upon the network's final completion, the company will also open its satellites' payload capacity to enterprises and research institutes to enable them to place their devices into space.
+
+So far, Li's company has reached initial cooperation agreements with the National Forestry and Grassland Administration and the Ministry of Emergency Management's National Institute of Natural Hazards on the satellite network's applications in their work, he said.

@@ -1,0 +1,31 @@
+标题: 3D printing set to help ease space trips
+网址: https://www.chinadaily.com.cn/a/202005/08/WS5eb3a799a310a8b241153f79.html
+
+3D printing set to help ease space trips
+
+China has conducted its first 3D printing experiment in space in a newly launched spacecraft, according to the China Academy of Space Technology.
+
+The academy said on its WeChat account on Thursday that the experiment was done by a 3D printer, developed and built by its Beijing Spacecrafts Manufacturing Factory, inside the prototype of China's new-generation manned spacecraft.
+
+The printer, named the Space-Based Composite Material 3D Printing System, uses carbon fiber-reinforced composites to autonomously print objects. It is installed in the reentry module of the experimental spaceship and will be brought back to Earth once the module returns.
+
+The academy said the printer features advanced technologies in material modeling, precision control and automation. It explained that once the space-based 3D printing technology becomes operationally ready, it can extensively benefit space programs as astronauts can use it to manufacture a lot of things they currently need to obtain from resupply flights by cargo spacecraft.
+
+Video clips broadcast on China Central Television showed that the printer has printed a flat section of a honeycomb-shaped structure as well as an emblem of China Aerospace Science and Technology Corp, the parent company of the China Academy of Space Technology.
+
+Also known as additive manufacturing technology, 3D printing is the processes in which three-dimensional objects are made through the layering of material. It is advancing rapidly and is increasingly used in the manufacturing sector.
+
+Wang Yanan, editor-in-chief of the Aerospace Knowledge magazine, said the 3D printer will be very useful in extended space missions, such as those in a space station, because it will allow astronauts to make components quickly and conveniently in space.
+
+The technology will save future space journeys considerable resources and costs, he said.
+
+In fact, the device is not the sole representative of 3D printing onboard the prototype. A CubeSat deployer, designed and made through 3D printing by CoSats Space Technology, a Beijing-based privately owned commercial space startup, is also carried by the spacecraft to verify the adaptability of 3D-printed equipment in space.
+
+A CubeSat deployer is an apparatus used to put miniaturized satellites into orbit.
+
+CoSats Chief Operating Officer Bai Ruixue said the 3D-printed deployer is much lighter and stronger than its counterparts and it will have huge potential in the space industry.
+
+The prototype of China's new-generation manned spacecraft was put into low-Earth orbit by China's Long March 5B heavy-lift carrier rocket during its maiden flight in Hainan province on Tuesday.
+
+图片列表:
+1. 3D printing set to help ease space trips_14.jpeg - 尺寸: 1200x800

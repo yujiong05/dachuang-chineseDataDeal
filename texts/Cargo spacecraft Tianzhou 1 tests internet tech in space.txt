@@ -1,0 +1,24 @@
+标题: Cargo spacecraft Tianzhou 1 tests internet tech in space
+网址: http://www.chinadaily.com.cn/china/2017-04/24/content_29058946.htm
+
+Cargo spacecraft Tianzhou 1 tests internet tech in space
+
+Could astronauts realize the dream of accessing the internet like us on the Earth? The humankind is closer to realizing this dream, with China's first cargo spacecraft testing the Ethernet technology in space, Xinhua News Agency reported Sunday.
+
+"Unlike previous spacecraft, Tianzhou 1 for the first time uses the Ethernet technology, which will help verify technology for internet communications aboard the future space station," said Feng Shuyi, chief for tracking communications technology for Tianzhou 1 under the Eighth Institute of the China Aerospace Science and Technology Corporation.
+
+Ethernet is the most widely used local area network technology and facilitates information transmission regardless of the location, according to Feng. It also enables efficient and fast transmission of huge information.
+
+The current communications system for spacecraft lags in the speed, quality and extension capability of transmission, and does not meet the growing demand for information transmission, especially from the future space station.
+
+"The application of Ethernet aboard Tianzhou 1 is aiming to test such technology for the future space station," said Feng.
+
+Feng said the high-speed communications processor, developed by the institute, is an important part of the Ethernet system aboard Tianzhou 1.
+
+Feng compared the processor as a big airport, which guides the takeoff and landing of big and small airplanes, receives and sends passengers from and to different areas. It is like a core transport hub.
+
+"The processor plays a big role in ground-space tracking communications for the cargo spacecraft, and lays a solid ground for building a 1Gb/s Internet connection aboard for the space station." Feng said.
+
+Latest
+
+State Council News

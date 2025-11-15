@@ -1,0 +1,30 @@
+标题: Chinese remote sensing satellite constellation to offer global services
+网址: https://www.chinadaily.com.cn/a/202503/03/WS67c5696da310c240449d843c.html
+
+Chinese remote sensing satellite constellation to offer global services
+
+BEIJING -- A Chinese Earth observation constellation, recently expanded with two new satellites launched into orbit in late February, is set to provide global services.
+
+The satellites will be targeted at the global market and compete with international leading commercial remote sensing satellites operated by providers such as US Maxar and Europe's Airbus, according to China Aerospace Science and Technology Corporation (CASC), the constellation's developer.
+
+The constellation can not only support maritime traffic monitoring and law-enforcement surveillance but also quickly obtain high-resolution images of disaster-affected areas after floods, fires and earthquakes.
+
+A Long March-2C carrier rocket placed the pair of satellites, Siwei Gaojing-1 03 and Siwei Gaojing-1 04, into their preset orbit on Feb 27. Last Saturday, ground stations received the first satellite data transmitted by the two satellites, with the images featuring clear texture details of the ground objects, realistic colors and rich layers.
+
+The two new members are currently the commercial remote sensing satellites with the highest spatial resolution and geometric accuracy in China, said an official from the CASC.
+
+They are equipped with ultra-agile control technology meaning they boast high-definition "anti-shake imaging."
+
+Also, the satellites adopt real-time monitoring technology for the camera's line of sight, establishing sub-arc-second-level precision between the camera and the satellite, which enables their uncontrolled image positioning accuracy to reach the international advanced level.
+
+The satellite network Siwei, now comprising 9 satellites in space, envisions 28 ones, which include 16 high-resolution optical satellites, 4 wide-swath optical satellites and 8 synthetic aperture radar (SAR) satellites. The constellation could be expanded to 56 satellites in the future depending on market demand.
+
+China has already deployed a couple of satellite constellations for remote sensing from space.
+
+The Jilin-1 constellation, which saw its first group of satellites launched in October 2015, now features more than 117 satellites and is capable of observing any point on the globe about 40 times a day.
+
+The constellation can cover the world six times a year and the entirety of China 24 times annually. Its operator Chang Guang has been cooperating with more than 130 overseas users in providing services regarding land surveys, urban building investigations, agriculture and forestry.
+
+Plus, China placed 12 satellites in orbit to form its largest commercial radar remote sensing constellation: Nuwa, named after the Chinese goddess said to be the creator of humanity. The Nuwa project aims to establish an interconnected platform with 114 satellites to enable a bigger SAR hybrid constellation.
+
+The country's remote sensing satellite constellation also include the Gaofen series Earth observation satellite.

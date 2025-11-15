@@ -1,0 +1,43 @@
+标题: Satellites keep eye on crawfish for gourmets
+网址: https://www.chinadaily.com.cn/a/202010/20/WS5f8e28aea31024ad0ba7faa8.html
+
+Satellites keep eye on crawfish for gourmets
+
+China's space programs have taken on a wide variety of duties, ranging from serving scientific endeavors, exploring extraterrestrial bodies, enabling better weather forecasts and guiding cars and ships.
+
+Soon, they will have a new group of beneficiaries－gourmets in love with freshwater crawfish－known in Chinese as xiaolongxia, or little lobsters.
+
+A domestic space-based system will help freshwater crawfish farmers in Hubei province－the largest producer in China of this gastronomically popular shellfish－improve the quality and yield of their produce, which will eventually bring more delicious crawfish to consumers, according to the system's manager at China Aerospace Science and Industry Corp, a State-owned space conglomerate.
+
+"Specifically speaking, we will set advanced sensors in paddy fields to monitor the condition and detect pollutants in waters in which crawfish are raised. The sensors will also be used to examine whether the soil beneath the water is good for crawfish farming," said Du Li, deputy general manager of Leobit Technology, a CASIC subsidiary in Wuhan, capital of Hubei, that designs, builds and runs the Xingyun satellite system.
+
+"The data collected will then be uploaded to our Xingyun satellites and transmitted to aquaculture authorities or farm owners to be analyzed and considered when making decisions," Du said.
+
+"The majority of crawfish farms in Hubei use paddy fields to raise their crawfish because it is better than other methods in terms of efficiency, environmental protection and economy. The water and underwater soil are the most important determinants of the quality and taste of the crawfish, so they should be monitored on a regular basis," Du told China Daily in an exclusive interview on Monday on the sidelines of the 6th China International Commercial Aerospace Forum, which opened in Wuhan that day.
+
+Currently, there are a small number of crawfish farms in Hubei that have other types of sensors to monitor the farms' environment. Most of their devices depend on traditional ground-based communication networks for data transmission, which are sometimes unreliable, Du said.
+
+"Many remote rural regions have poor ground-based communication facilities, causing problems in the deployment of traditional sensors," he explained. "So this is an opportunity for Xingyun."
+
+Internet-of-things network
+
+A trial program was approved by the provincial agricultural department in August and will soon start in three farming areas in Jingzhou.
+
+Sensors deployed at farms involved in the program will send data to satellites four times per day, enabling aquaculture authorities and farm owners to receive reports on the farming environment and take necessary measures in a timely manner, Du said.
+
+Xingyun is China's first and only space-based internet-of-things network and now has two satellites. The internet of things is a network of devices, vehicles, buildings and other objects that contain software or sensors that allow them to connect and exchange data.
+
+The Xingyun 2-01 and Xingyun 2-02 were launched at the Jiuquan Satellite Launch Center in northwestern China in May and are operating in a sun-synchronous orbit about 560 kilometers above Earth.
+
+CASIC has announced that it intends to deploy 12 Xingyun 2-series satellites in 2021 to join the first two such spacecraft already in orbit. It will then establish a small system that will be used in a trial run of the internet-of-things system.
+
+In CASIC's plan, the Xingyun network will have about 80 low-orbiting, narrowband communications satellites upon its completion around 2023 and will provide global coverage to users by that time.
+
+Once the network becomes fully operational, it will offer users round-the-clock access to the internet of things, which is expected to bring advantages including better control of devices, higher operational efficiency and optimized utilization of resources, according to the company.
+
+Crawfish－cooked with heavy seasoning and enjoyed with beer on a hot summer evening－became popular on the Chinese mainland starting in the late 1990s.
+
+In 2019, the crawfish business was worth more than 410 billion yuan ($61.3 billion), according to the China Society of Fisheries.
+
+图片列表:
+1. Satellites keep eye on crawfish for gourmets_14.jpeg - 尺寸: 1200x900

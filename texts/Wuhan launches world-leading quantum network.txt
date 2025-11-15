@@ -1,0 +1,30 @@
+标题: Wuhan launches world-leading quantum network
+网址: http://usa.chinadaily.com.cn/china/2017-11/01/content_33968994.htm
+
+Wuhan launches world-leading quantum network
+
+Wuhan, Hubei province, launched the world's most advanced civilian quantum communication network on Tuesday, and will soon connect all the city's government bodies, financial institutions and other entities to allow the secure transmission of classified information, according to project managers.
+
+A launch ceremony was held during a laser technology forum in Wuhan hosted by China Aerospace Science and Industry Corp, the major builder of the network. The company mainly develops and produces missiles and carrier rockets but also invests heavily in laser technologies and instruments, which are key components of a quantum communication network.
+
+CASIC said in a news release that the network's operation will ensure the "absolute safety" of the transmission of classified information and will boost the efficiency of such communications.
+
+Quantum communication systems feature ultra high security. It is theoretically impossible to wiretap, intercept or crack information transmitted through them, according to research findings.
+
+Wu Xiaofeng, a senior manager at CASIC who is overseeing the project, said that Beijing and Shanghai; Hefei, Anhui province; and Jinan, Shandong province, have started trials for intracity quantum communication networks, but the Wuhan system is the largest and most advanced civilian network in the world.
+
+He noted that the Wuhan network will also have more users than its predecessors and that it is set to become fully operational before the end of this year. After that, the system will be extended to eight cities surrounding Wuhan in the province, he said.
+
+"The intracity network in Wuhan is the first in the world that has used the cutting-edge technology known as 'wavelength-division multiplexing' in a civilian quantum communication system," said Wang Shaoyi, chairman of Wuhan Space Sanjiang Quantum Communication, a CASIC subsidiary focused on quantum transmission technologies.
+
+China has been allotting considerable resources to quantum technologies in an attempt to be at the forefront of what its leaders believe is one of the most important fields in science and technology.
+
+The world's longest quantum communications network, the 2,000-kilometer Beijing-Shanghai network, was put into service in late September, mainly securing quantum encryption communication by government and military authorities in Beijing and financial institutions in Shanghai.
+
+The network works in conjunction with the world's first quantum experiment satellite, which was launched by China in August last year to verify quantum communication theories.
+
+Wu said his company is working with University of Science and Technology of China in the construction of the 300-km Wuhan-Hefei quantum communication line. The new link will go into operation in 2018 and then will be connected with the Beijing-Shanghai network.
+
+zhaolei@chinadaily.com.cn
+
+(China Daily 11/01/2017 page4)

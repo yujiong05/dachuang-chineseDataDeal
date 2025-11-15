@@ -1,0 +1,35 @@
+标题: Cooperative skies provide better flight experience
+网址: https://www.chinadaily.com.cn/a/202306/05/WS647d3ba1a31033ad3f7ba6bb.html
+
+Cooperative skies provide better flight experience
+
+A commercial airline flight between China and the US can take up to 17 hours, one of the world's longest, with passengers experiencing limited internet access or slower internet speeds for the duration.
+
+However, passengers flying between the two countries will soon have access to high-quality connectivity that offers multiple-device streaming, videoconferencing, gaming and high-speed data transfer that they enjoy on land.
+
+This is largely because of increased collaboration in satellite communications between Chinese and US companies.
+
+Last month, Viasat corporation in the United States announced the launch of ViaSat-3 Americas, which brings enhanced power and flexibility to satellite broadband.
+
+Viasat began partnering with China Satellite Communications, or China Satcom, in 2019; the latter is a subsidiary of China Aerospace Science and Technology Corp and provides various satellite services.
+
+Here is how it works: a flight starts in the US with in-flight connectivity provided by ViaSat-3 Americas, the highest capacity commercial communication satellite ever launched. This link switches to Satcom satellites as the plane makes its way to China, said Shameem Hashmi, vice-president and general manager of maritime and global markets at Viasat.
+
+Viasat-3 Americas is a Ka-band satellite, and China Satcom is the only Ka-band satellite operator in China. Their collaboration enables seamless coverage for Viasat-linked aircraft within China Satcom or Viasat range, as they travel between the US and China, Hashmi said. Satellites in Ka-band range provide higher bandwidth communication.
+
+Win-win situation
+
+The collaboration between the two companies brings "a very good experience" to passengers, Hashmi said, adding that both the end users and the airlines are beneficiaries.
+
+"It's a win-win across the board, due to this long-standing relationship with China Satcom."
+
+Despite changing geopolitical circumstances, Viasat remains optimistic about the future of in-flight connectivity in the Chinese market, Hashmi said.
+
+China has the world's largest domestic aviation market, and its aviation sector has grown rapidly. By the end of 2021, Chinese carriers operated about 4,000 active commercial aircraft, but only 842 aircraft provided onboard Wi-Fi, the Civil Aviation Administration of China said.
+
+This huge gap is driving Viasat to expand its business in the Chinese market. "It's a great opportunity," Hashmi said.
+
+In January, Viasat said China's aviation regulator had approved installation of its in-flight connectivity system on Boeing 737s, a major aircraft model that makes up more than 75 percent of China's domestic aircraft fleet.
+
+图片列表:
+1. Cooperative skies provide better flight experience_14.jpeg - 尺寸: 1200x800

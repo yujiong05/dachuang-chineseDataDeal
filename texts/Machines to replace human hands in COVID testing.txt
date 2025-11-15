@@ -1,0 +1,41 @@
+标题: Machines to replace human hands in COVID testing
+网址: https://www.chinadaily.com.cn/a/202209/22/WS632bc259a310fd2b29e79241.html
+
+Machines to replace human hands in COVID testing
+
+Chinese biotech companies and universities are stepping up the push to develop the latest robots for COVID-19 testing as a way to reduce the workload on medical staff, boost efficiency and facilitate the revival of cross-border travel.
+
+The trend also comes as a five-year plan (2021-25) for the robotics industry, unveiled by the Ministry of Industry and Information Technology. It calls for greater efforts to widen the application of robotics in more sectors, including healthcare.
+
+Tsinghua University and Bioteke Corp, a company based in Wuxi, Jiangsu province, which focuses on molecular diagnostics and rapid detection－particularly, nucleic acid extraction－have developed a robot that can perform COVID-19 testing with unprecedented speed and efficiency, officials said.
+
+The robot, which looks like a vending machine, can collect throat swabs, process samples and produce results and upload them in just 45 minutes, without the involvement of a laboratory or any human intervention, said Sun Fuchun, a professor of robotics at Tsinghua University, who served as head of the research and development of the robot.
+
+"The robot is a one-stop machine for COVID-19 testing, which differentiates it from robots that can only collect samples," Sun said. "Our robot, which has a polymerase chain reaction, or PCR, test machine in it, can process samples from up to 960 people at a time."
+
+The robot contains different modules for sampling, extraction, purification, detection and result analysis, and also has information management capabilities, said Sun, who is also vice-president of the Chinese Association for Artificial Intelligence, a Beijing-based industry association.
+
+A PCR test machine produced by Bioteke has already been approved by the National Medical Product Administration as a Class-III domestic medical device. In China, Class-III domestic medical devices undergo strict regulatory review by the national medical product regulator for approval and registration.
+
+The robot is now also under review by the top medical product regulator for a Class-III license.
+
+"We aim to shorten the whole process from 45 minutes to 30 minutes in the next-generation robot, which is under development and expected to be unveiled in a few months," Sun said.
+
+Some sample-collection robots adapted from industrial robotic arms that have limited mechanical moves might create an unpleasant experience for users. But this new machine's robotic claw is tailor-made and consists of more pliable materials to ensure that it moves gently while taking oral swab samples, Sun said.
+
+The robots are being tested in hospitals and organizations such as Beijing Tsinghua Changgung Hospital and Nantong Center for Disease Control and Prevention in Nantong, Jiangsu province, which is helping to relieve the burden on medical staff.
+
+The market volume of China's nucleic acid testing sector is expected to reach 14.6 billion yuan ($2.1 billion) in 2022, up from 13.2 billion yuan last year, according to Shenzhen-based research company Askci Corp.
+
+Eyeing this market, Siasun Robot&Automation Co, one of China's largest robotics companies, and a robotics unit of China Aerospace Science and Industry Corp have also developed robots that can stand in for on-site staff to collect oral swab samples. The samples are then sent to a laboratory for analysis.
+
+Zhou Zhitu, general manager of Bioteke, said nearly 20 million yuan has been invested in the research and development of the robots it jointly developed with Tsinghua University.
+
+"The cost of our robots is almost half that of COVID-19 test robots adapted from foreign industrial robotic arms," Zhou said, adding that they would be especially useful in airports, train stations and other locations requiring instant COVID-19 test results, helping to facilitate the revival of cross-border travel.
+
+In conditions such as the sweltering heat that have recently roasted southern China, the robots could also relieve medical workers from having to wear the heavy protective suits needed when they manually collect throat swabs at COVID-19 testing sites, Zhou added.
+
+Song Xiaogang, executive director and secretary-general of the China Robot Industry Alliance, said robots are important in advancing emerging technologies. As key equipment for modern industries, robots can lead to greater digital development and upgrades of intelligent systems.
+
+图片列表:
+1. Machines to replace human hands in COVID testing_14.jpeg - 尺寸: 1198x787

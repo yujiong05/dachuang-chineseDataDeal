@@ -1,0 +1,20 @@
+标题: China's first all-electric communication satellite begins operation
+网址: https://www.chinadaily.com.cn/a/202407/15/WS6694e70fa31095c51c50e29a.html
+
+China's first all-electric communication satellite begins operation
+
+China's first all-electric communication satellite, APSTAR 6E, started operation on Monday, according to China Great Wall Industry, the satellite project's contractor.
+
+Since its launch by a Long March 2C rocket from the Xichang Satellite Launch Center in Sichuan province in January 2023, the satellite spent 514 days on its journey from a low-Earth orbit, where it was deployed by the rocket, to its preset position in a geosynchronous orbit.
+
+The orbital transfer was realized by its electric propulsion systems, said the company, the overseas trading arm of China Aerospace Science and Technology Corp.
+
+As of Monday, all of the satellite's in-orbit tests had been completed and the results were reviewed and approved by an expert panel convened in Hong Kong on the day, the company said in a news release.
+
+Built by the China Academy of Space Technology, another CASC subsidiary, the APSTAR 6E is the first based on the electrically propelled DFH-3E satellite platform, which is intended for operations in geosynchronous orbit.
+
+A satellite platform is a framework used to assemble a satellite, or satellite system, in accordance with its role and function. It consists of the universal equipment needed by any satellite such as a power source, propulsion and orbital control devices, as well as instruments specifically designed for the satellite in question. This permits easy configuration.
+
+With a liftoff weight of 4.3 metric tons, the APSTAR 6E carries 25 Ku-band transponders and three Ka-band gateway transponders that can provide a combined communication throughput of 30 gigabytes per second, according to Wang Min, the satellite's chief designer.
+
+The satellite is tasked with providing high-throughput broadband communication services to Southeast Asian countries.

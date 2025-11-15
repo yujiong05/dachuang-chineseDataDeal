@@ -1,0 +1,18 @@
+标题: Better rubidium clocks increase BeiDou satnav accuracy
+网址: http://usa.chinadaily.com.cn/china/2017-11/06/content_34190127.htm
+
+Better rubidium clocks increase BeiDou satnav accuracy
+
+XICHANG, Sichuan Province -- New, ultra-accurate rubidium atomic clocks on board two BeiDou-3 satellites launched into space Sunday have greatly improved the accuracy of the system.
+
+The two satellites are equipped with more reliable rubidium atomic timekeepers than those in previous BeiDou satellites. According to Yang Changfeng, chief designer of the satellite system, their stability was as high as E-14. "It means only one second of deviation in 3 million years," he said.
+
+Important payloads of the navigation satellites, atomic clocks are the workhorses which synchronize the signals that allow satnav receivers to triangulate their position on Earth.
+
+"The stability of the new-generation clocks has been improved by 10 times, compared with those carried by BeiDou-2 satellites," said Qu Yongsheng from the China Aerospace Science and Technology Corporation fifth research institute, Xi'an branch, developer of the clocks.
+
+Qu said this new technology has raised the positioning accuracy of the BeiDou-3 to 2.5 - 5 meters from 10 meters in the past.
+
+Named after the Chinese term the Big Dipper constellation, the BeiDou project was formally initiated in 1994, began to serve China in 2000 and was expanded across the Asia-Pacific region at the end of 2012.
+
+BeiDou is intended to become a global positioning and navigation system by around 2020.

@@ -1,0 +1,102 @@
+标题: Robotic probe launched to lunar far side
+网址: https://www.chinadaily.com.cn/a/202405/04/WS66356aa1a31082fc043c5280.html
+
+Robotic probe launched to lunar far side
+
+China's historic Chang'e 6 mission aims to collect samples of high scientific value
+
+The Chang'e 6 robotic probe, tasked with the world's first attempt to retrieve samples from the moon's far side, embarked on its historic journey on Friday from China's southernmost province of Hainan.
+
+A Long March 5 heavy-lift carrier rocket — the biggest and mightiest space vehicle in China, standing at 20 stories and weighing 870 metric tons — blasted off from its launch pad at 5:27 pm with the 8.35-ton Chang'e 6 spacecraft aboard and soared skyward, leaving hundreds of thousands of spectators awestruck at and around the coastal Wenchang Space Launch Center.
+
+The liftoff marked the beginning of the country's second lunar sample-return expedition after the successful Chang'e 5 mission in the winter of 2020.
+
+Yet the unfolding mission will be much more difficult, challenging and riveting than the Chang'e 5, which landed on the moon's near side, and will definitely be recorded — regardless of whether it is a huge success or an unfortunate failure — as a symbol of audacious and pioneering work in the history of humankind's lunar exploration.
+
+Previously, 10 lunar sample-return missions were undertaken by the United States, the former Soviet Union and China, but all these samples were collected from the moon's near side.
+
+As one of China's, and also the world's, most significant space journeys this year, major steps in the Chang'e 6 mission have made headlines around the globe and have garnered a lot of attention from the Chinese people.
+
+The local tourism authority in Wenchang estimated at least 200,000 travelers arriving in Longlou, a township that is home to the launch complex, on Friday to witness the liftoff.
+
+According to the China National Space Administration, after flying for about 37 minutes, the Long March 5 rocket successfully placed the robotic lunar probe into an Earth-moon transfer trajectory, the gateway to our celestial neighbor.
+
+Complex operation
+
+Within the next several days, the Chang'e 6 probe is programmed to fly along its moonward trajectory and make some correction operations before conducting a key braking maneuver to avoid accidentally flying past the moon. Thereafter, the spacecraft will be captured by the moon's gravity and move into a lunar orbit.
+
+Like its predecessor, the Chang'e 6 spacecraft is designed and built by the Beijing-based China Academy of Space Technology, a subsidiary of China Aerospace Science and Technology Corp, and also consists of four components — an orbiter, a lander, an ascender and a reentry capsule.
+
+Its operational process will basically mimic that of the Chang'e 5 spacecraft. After the probe reaches lunar orbit, its components will separate into two parts, with the orbiter and reentry capsule remaining in orbit, while the lander and ascender start approaching the lunar surface.
+
+When everything is ready, the lander-ascender combination will make a soft landing in the South Pole-Aitken Basin — a gigantic crater on the lunar far side and also the largest, oldest and deepest basin recognized on the moon. It will then start using a drill and a mechanical arm to gather surface and underground samples.
+
+If everything proceeds smoothly, up to 2 kilograms of stones and soil will be collected and packed in a vacuum-sealed metal container inside the ascender.
+
+After the collection operation is completed, the engines of the ascender will elevate it to lunar orbit for docking with the reentry capsule. The vacuum-sealed container carrying the samples will be transferred to the module before the ascender undocks.
+
+The combination of orbiter and reentry capsule will then depart the lunar orbit and return to the Earth's orbit, where the pair will break up and the reentry capsule will conduct a host of complicated maneuvers to return to the Siziwang Banner Landing Site in the Inner Mongolia autonomous region.
+
+The main difference between the Chang'e 5 and Chang'e 6 probes lies in their landing destination on the moon and corresponding technical issues, the most crucial of which is the communication difficulties between the lunar far side and Earth.
+
+In order to establish a data link for the Chang'e 6 probe, China deployed a new relay satellite in the lunar orbit in March.
+
+Wang Qiong, a deputy chief designer of the Chang'e 6 mission, said there will be a host of challenges and uncertainties during the 53-day expedition, adding that Chinese scientists and engineers have made efforts to work out the best available solutions.
+
+"During the Chang'e 5 mission, the probe worked on the near side, so we could monitor its work processes and send control signals to it anytime. But in the case of Chang'e 6, we will have to depend solely on the Queqiao 2 relay satellite to transmit data and signals. The satellite has a limited coverage over the landing site, which will consequently restrict our communication with the Chang'e 6 probe," he said.
+
+Wang said that engineers have applied some new advanced technologies in the mission, such as a rapid sampling system and a smart data-analysis mechanism, to ensure that the sample-collection tasks are effectively and efficiently completed on the lunar surface within shorter operating time.
+
+In the case of a communications blackout, the Chang'e 6 probe is capable of conducting some key maneuvers in accordance with preset programs, he added.
+
+Scientific benefits
+
+The lunar far side is the hemisphere of the moon permanently facing away from Earth due to tidal forces on the planet. As it is never visible from Earth, that region was once dubbed the "dark side of the moon" even though it receives just as much sunlight as the near side.
+
+The moon's far side has been extensively photographed by various spacecraft, starting with a Soviet probe in 1959. However, no probe had touched down on its surface until China's Chang'e 4 mission, which landed in the South Pole-Aitken Basin in January 2019.
+
+Due to its many mysteries, the far side has been a subject of scientific speculation and popular sci-fi culture since the Apollo era.
+
+As the landing destination, the South Pole-Aitken Basin is believed to hold clues to intriguing and important science questions.
+
+There has been a popular hypothesis that the basin was formed through the impact of a massive asteroid, around 200 kilometers in diameter. The collision was so powerful that it excavated some of the lunar mantle — mate-rial between the lunar core and the crust — and brought it to the surface. The physical characteristics of the gigantic crater thus appear to be different from other lunar regions.
+
+Chinese researchers have found that the layer of soil on the far side is much thicker than on the near side, but they have yet to find out why the crust on the two sides drastically differs in terms of thickness.
+
+Scientists around the world called for a sample-return mission to the far side, underlining that the advantage of going there is the potential of learning more about the interior composition of the moon.
+
+According to mission planners at the China National Space Administration, many scientists at home and abroad have said they are eagerly waiting for the Chang'e 6 probe to bring back samples from the far side, because such materials will hold high scientific value.
+
+For instance, samples brought back by the Chang'e 5 probe have helped scientists find that there were volcanic activities on the moon's near side around 2 billion years ago. Samples from the far side will allow them to verify the hypothesis that volcanoes became inactive on that hemisphere about 4 billion years ago.
+
+Professor Martin Sweeting, a fellow of the Royal Society of the United Kingdom and a distinguished professor of space engineering at the University of Surrey, told China Daily before Friday's launch that he was "looking forward to the launch of Chang'e 6 that will, for the very first time, bring unique samples from the far side of the moon".
+
+Sweeting said that landing and retrieving samples on the far side, out of the Earth's direct sight and communication, is a "very complex and demanding engineering activity" that will rely on advanced control systems and robotics on the surface and communications via the Queqiao 2 relay satellite in lunar orbit.
+
+"The surface on the far side is very different to the near side ... with a multitude of impact craters and relatively few flat and dark areas, so comparing the composition of the far side samples from Chang'e 6 with those previously gathered from the near side will be of great scientific value to the international community," he said.
+
+Giuseppe Reibaldi, president and founder of the Moon Village Association, a Vienna-based NGO, and executive secretary of the Global Expert Group on Sustainable Lunar Activities, said the Chang'e 6 mission will combine the challenges of the previous two Chinese lunar expeditions — the Chang'e 4 probe that made the first landing on the far side and the Chang'e 5 that recovered samples from the moon's near side.
+
+The lunar formation and composition are not well understood till today, and analyzing the samples from the far side will make a major contribution toward understanding them, said Reibaldi, who worked for the European Space Agency for 35 years.
+
+"It is expected that some materials recovered from the far side will be made available to the international science community, to give more scientists access to these samples, like it was done in case of Chang'e 4," he added.
+
+International cooperation
+
+In addition to the unprecedented attempt to collect samples from the lunar far side, the Chang'e 6 probe also holds significance because it is expected to bring three European science payloads to the far side.
+
+According to the space administration, there is a radon measuring instrument from France's national space agency on the Chang'e 6 lander, which will help study the movement of lunar dust and some volatile chemicals between the lunar regolith, a layer of unconsolidated rocky material, and the lunar exosphere.
+
+The second payload is a passive laser retroreflector from Italy's National Institute for Nuclear Physics, which will be used as a laser range-finder for the Chang'e 6 lander.
+
+The third payload, developed by the Swedish Institute of Space Physics with support from the European Space Agency, will be the first-ever dedicated negative ion instrument flown beyond Earth. It will seek to detect negative ions emitted from the lunar surface as a result of interaction with solar winds.
+
+More than 20 proposals from foreign space agencies and research organizations contested for the golden opportunity to join the Chang'e 6 mission to reach the far side. The three from Europe emerged as winners.
+
+This is not the first time for China to offer opportunities to foreign scientists to deploy their science equipment on the moon. During the Chang'e 4 mission, the Chinese probe had carried German and Swedish sensing devices to the far side.
+
+zhaolei@chinadaily.com.cn
+
+图片列表:
+1. Robotic probe launched to lunar far side_16.jpeg - 尺寸: 1199x1336
+2. Robotic probe launched to lunar far side_17.jpeg - 尺寸: 1200x1800
